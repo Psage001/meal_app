@@ -18,28 +18,28 @@ This app was inspired by a Flutter course I took on **Udemy**, which helped shap
 ---
 
 ## **Screenshots** 📸
-
 ### 1. **Home Screen**
 _Screenshot of Home Screen showing meal categories like Italian, Asian, Quick & Easy, etc., along with the burger menu for accessing filters._
-[Insert Home Screen Image Here]
+![Home Screen](navigation_images/Screenshot_2024-10-11_101006.jpg)
 
 ---
 
 ### 2. **Favorites Screen**
 _Screenshot of the Favorites Screen displaying saved meals._
-[Insert Favorites Screen Image Here]
+![Favorites Screen](navigation_images/Screenshot_2024-10-11_101055.jpg)
 
 ---
 
 ### 3. **Meal Details Screen**
 _Screenshot of the Meal Details Screen showing ingredients, preparation steps, and dietary filters._
-[Insert Meal Details Image Here]
+![Meal Details Screen](navigation_images/Screenshot_2024-10-11_101030.jpg)
 
 ---
 
 ### 4. **Filter Bar and Settings**
 _Screenshot of the filter bar showing options like vegetarian, vegan, gluten-free, etc., and how it integrates with the burger menu._
-[Insert Filter Bar & Settings Image Here]
+![Filter Bar Screenshot](navigation_images/Screenshot_2024-10-11_101117.jpg)
+![Settings Burger Menu Screenshot](navigation_images/Screenshot_2024-10-11_101135.jpg)
 
 ---
 
