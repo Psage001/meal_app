@@ -18,7 +18,7 @@ This app was inspired by a Flutter course I took on **Udemy**, which helped shap
 ## **Screenshots** 📸
 
 ### 1. **Home Screen**
-_Screenshot of Home Screen showing meal categories like Italian, Asian, Quick & Easy, etc., along with the burger menu for accessing filters._
+_Screenshot of Home Screen showing meal categories like Italian, Asian, Quick & Easy, etc., along with the burger(Navigaation) menu icon for accessing filters aswell as meals page._
 <div align="center">
     <img src="navigation_images/home.png" alt="Home Screen" width="300" />
 </div>
