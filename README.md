@@ -15,32 +15,41 @@ This app was inspired by a Flutter course I took on **Udemy**, which helped shap
 - **Settings (Burger Menu)**: Provides access to settings where users can configure their filters and app preferences.
 - **Responsive UI**: Consistent experience across various screen sizes and orientations.
 
----
 ## **Screenshots** 📸
+
 ### 1. **Home Screen**
-_Screenshot of Home Screen showing meal categories like Italian, Asian, Quick & Easy, etc., along with the burger menu for accessing filters._
-![Home Screen](navigation_images/Screenshot_2024-10-11_101006.jpg)
+_Screenshot of Home Screen showing meal categories like Italian, Asian, Quick & Easy, etc., along with the burger(Navigaation) menu icon for accessing filters aswell as meals page._
+<div align="center">
+    <img src="navigation_images/home.png" alt="Home Screen" width="300" />
+</div>
 
 ---
 
 ### 2. **Favorites Screen**
 _Screenshot of the Favorites Screen displaying saved meals._
-![Favorites Screen](navigation_images/Screenshot_2024-10-11_101055.jpg)
+<div align="center">
+    <img src="navigation_images/favorites.png" alt="Favorites Screen" width="300" />
+</div>
 
 ---
 
 ### 3. **Meal Details Screen**
 _Screenshot of the Meal Details Screen showing ingredients, preparation steps, and dietary filters._
-![Meal Details Screen](navigation_images/Screenshot_2024-10-11_101030.jpg)
+<div align="center">
+    <img src="navigation_images/details.png" alt="Meal Details Screen" width="300" />
+</div>
 
 ---
 
 ### 4. **Filter Bar and Settings**
 _Screenshot of the filter bar showing options like vegetarian, vegan, gluten-free, etc., and how it integrates with the burger menu._
-![Filter Bar Screenshot](navigation_images/Screenshot_2024-10-11_101117.jpg)
-![Settings Burger Menu Screenshot](navigation_images/Screenshot_2024-10-11_101135.jpg)
+<div align="center">
+    <img src="navigation_images/filters.png" alt="Filter Bar Screenshot" width="300" />
+    <img src="navigation_images/navigation.png" alt="Settings Burger Menu Screenshot" width="300" />
+</div>
 
 ---
+
 
 ## **Setup & Installation** ⚙️
 
