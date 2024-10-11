@@ -16,11 +16,10 @@ This app was inspired by a Flutter course I took on **Udemy**, which helped shap
 - **Responsive UI**: Consistent experience across various screen sizes and orientations.
 
 ---
-
 ## **Screenshots** 📸
 ### 1. **Home Screen**
 _Screenshot of Home Screen showing meal categories like Italian, Asian, Quick & Easy, etc., along with the burger menu for accessing filters._
-![Home Screen]( navigation_images/Screenshot 2024-10-11 101006.jpg )
+![Home Screen](navigation_images/Screenshot_2024-10-11_101006.jpg)
 
 ---
 
@@ -40,16 +39,6 @@ _Screenshot of the Meal Details Screen showing ingredients, preparation steps, a
 _Screenshot of the filter bar showing options like vegetarian, vegan, gluten-free, etc., and how it integrates with the burger menu._
 ![Filter Bar Screenshot](navigation_images/Screenshot_2024-10-11_101117.jpg)
 ![Settings Burger Menu Screenshot](navigation_images/Screenshot_2024-10-11_101135.jpg)
-
----
-
-## **Technical Overview** 🛠️
-
-- **Framework**: Flutter (Dart)
-- **State Management**: `setState()` is used for managing basic UI states and updating the user’s meal selections and filter preferences.
-- **Navigation**: Named routes are used for transitioning between the Home, Meal Details, and Favorites screens.
-- **Filter Logic**: The filter bar is integrated into the `settings_screen.dart`, which stores the user's filter preferences locally.
-- **Responsive Layout**: Uses Flutter’s responsive layout design to ensure compatibility with different screen sizes and orientations.
 
 ---
 
