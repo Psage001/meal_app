@@ -15,31 +15,38 @@ This app was inspired by a Flutter course I took on **Udemy**, which helped shap
 - **Settings (Burger Menu)**: Provides access to settings where users can configure their filters and app preferences.
 - **Responsive UI**: Consistent experience across various screen sizes and orientations.
 
----
 ## **Screenshots** 📸
 
 ### 1. **Home Screen**
 _Screenshot of Home Screen showing meal categories like Italian, Asian, Quick & Easy, etc., along with the burger menu for accessing filters._
-<img src="navigation_images/home.png" alt="Home Screen" height="200" />
+<div align="center">
+    <img src="navigation_images/home.png" alt="Home Screen" width="300" />
+</div>
 
 ---
 
 ### 2. **Favorites Screen**
 _Screenshot of the Favorites Screen displaying saved meals._
-<img src="navigation_images/favorites.png" alt="Favorites Screen" height="200" />
+<div align="center">
+    <img src="navigation_images/favorites.png" alt="Favorites Screen" width="300" />
+</div>
 
 ---
 
 ### 3. **Meal Details Screen**
 _Screenshot of the Meal Details Screen showing ingredients, preparation steps, and dietary filters._
-<img src="navigation_images/details.png" alt="Meal Details Screen" height="200" />
+<div align="center">
+    <img src="navigation_images/details.png" alt="Meal Details Screen" width="300" />
+</div>
 
 ---
 
 ### 4. **Filter Bar and Settings**
 _Screenshot of the filter bar showing options like vegetarian, vegan, gluten-free, etc., and how it integrates with the burger menu._
-<img src="navigation_images/filters.png" alt="Filter Bar Screenshot" height="200" />
-<img src="navigation_images/navigation.png" alt="Settings Burger Menu Screenshot" height="200" />
+<div align="center">
+    <img src="navigation_images/filters.png" alt="Filter Bar Screenshot" width="300" />
+    <img src="navigation_images/navigation.png" alt="Settings Burger Menu Screenshot" width="300" />
+</div>
 
 ---
 
