@@ -1,7 +1,3 @@
-Here’s an updated **README** file with the mention of the Udemy course that inspired the app:
-
----
-
 # **Meal App** 🍲
 
 **Meal App** is a Flutter-based mobile application that allows users to browse, filter, select, and favorite meals. With a sleek user interface and easy navigation, this app provides a seamless experience for users looking to explore new recipes. Users can filter meals based on preferences like dietary restrictions, complexity, and more.
