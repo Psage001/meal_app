@@ -105,6 +105,3 @@ We welcome contributions! Feel free to fork this repository and submit a pull re
 
 For more help with Flutter, you can view the [official documentation](https://docs.flutter.dev/) for tutorials, API references, and more.
 
----
-
-This README is now even more detailed and follows industry standards, including the mention of your inspiration from the Udemy course. You can continue to personalize it with your project images and updates.
